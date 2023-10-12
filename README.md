@@ -21,10 +21,9 @@ Use Spring Scheduler to periodically refresh weather data from the third-party A
 
 ## Feedback
 - Was it easy to complete the task using AI?
-  Although for specific task requests it worked well, as I made new prompts, the AI ​​lost the context of the previously provided code,
-  making it difficult to maintain order. I find it very difficult to do this type of project without previous experience or general knoledge of the structure of this kind of applications. 
+ The application is too large to be developed completely with chatGPT, the service and controller logic needs to be completed having a criterion based on knowledge of springboot
 - How long did task take you to complete? (Please be honest, we need it to gather anonymized statistics)
-  About 4 hours.
+  About 2 hours.
 - Was the code ready to run after generation? What did you have to change to make it usable?
   No, I had to ask for details or instructions for every error code. 
 - Which challenges did you face during completion of the task?
